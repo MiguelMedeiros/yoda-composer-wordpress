@@ -1,0 +1,38 @@
+{
+  "repositories": [{
+            "type": "composer",
+            "url": "https://wpackagist.org"
+      },
+      {
+              "type": "package",
+              "package": {
+                  "name": "MiguelMedeiros/yoda-loves-wordpress",
+                  "type": "wordpress-theme",
+                  "version": "1.0",
+                  "dist": {
+                      "type": "zip",
+                      "url": "https://github.com/MiguelMedeiros/yoda-loves-wordpress/archive/master.zip"
+                  },
+                  "require": {
+                      "composer/installers": "v1.0.7"
+                  }
+              }
+      }],
+      "require": {
+            "php": ">=5.4",
+            "johnpbloch/wordpress": "4.2",
+            "wpackagist-plugin/contact-form-7": "4.5.1",
+            "wpackagist-plugin/regenerate-thumbnails": "2.2.6",
+            "wpackagist-plugin/wp-super-cache": "1.4.8",
+            "wpackagist-plugin/advanced-custom-fields": "4.4.11",
+            "wpackagist-plugin/wordpress-seo": "3.8",
+            "MiguelMedeiros/yoda-loves-wordpress": "*"
+
+      },
+      "extra": {
+            "installer-paths": {
+                  "wordpress/wp-content/plugins/{$name}/": ["type:wordpress-plugin"],
+                  "wordpress/wp-content/themes/{$name}/": ["type:wordpress-theme"]
+            }
+      }
+}
