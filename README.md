@@ -3,7 +3,7 @@ Yoda Composer is a compact tool for Wordpress developtment.
 It makes your front-end/back-end faster! :sunglasses:
 
 ##Features:
-* Composer
+* [Composer](https://getcomposer.org/)
   * Framework: [Wordpress](https://wordpress.org/) 
   * Theme: [Yoda Loves Wordpress](https://github.com/MiguelMedeiros/yoda-loves-wordpress)
   * Plugin: [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
