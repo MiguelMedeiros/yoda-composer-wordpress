@@ -36,7 +36,7 @@ path-to-your-folder> composer install
   ```
 
 ## Install Gulp
-1. At the terminal go to your theme path __Yoda Loves Wordpress__ themes and run this command:
+1. At the terminal go to your theme path and run the command:
 
   ```
 path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> composer install
