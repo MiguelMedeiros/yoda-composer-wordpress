@@ -6,8 +6,6 @@ It makes your front-end/back-end faster! :sunglasses:
 * Composer
   * Framework: [Wordpress](https://wordpress.org/) 
   * Theme: [Yoda Loves Wordpress](https://github.com/MiguelMedeiros/yoda-loves-wordpress)
-    * [Bootstrap](http://getbootstrap.com/)
-    * Framework: MMW functions
   * Plugin: [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
   * Plugin: [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
   * Plugin: [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
