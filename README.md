@@ -46,5 +46,6 @@ path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> composer i
   ```
 path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> gulp
   ```
-
-Author: www.miguelmedeiros.com.br
+  
+***
+Author: [miguelmedeiros.com.br](https://www.miguelmedeiros.com.br/)
