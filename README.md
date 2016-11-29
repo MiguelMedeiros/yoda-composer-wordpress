@@ -37,7 +37,7 @@ path-to-your-folder> composer install
 1. At the terminal go to your theme path and run the command:
 
   ```
-path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> composer install
+path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> npm install
   ```
 2. Now you can run __gulp__ in the terminal to start Gulp Tasks!
 
