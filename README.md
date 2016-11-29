@@ -1,6 +1,6 @@
 # Yoda Composer for Wordpress
 Yoda Composer is a compact tool for Wordpress developtment.
-It makes your front-end and back-end faster! :)
+It makes your front-end/back-end faster! :sunglasses:
 
 ##Features:
 * Composer
@@ -50,4 +50,5 @@ path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> gulp
   ```
 
 Author: __Miguel Medeiros__
+
 Website: http://www.miguelmedeiros.com.br/
