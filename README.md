@@ -4,16 +4,16 @@ It makes your front-end/back-end faster! :sunglasses:
 
 ##Features:
 * Composer
-  * Framework: Wordpress
-  * Theme: Yoda Loves Wordpress
-    * Bootstrap
+  * Framework: [Wordpress](https://wordpress.org/) 
+  * Theme: [Yoda Loves Wordpress](https://github.com/MiguelMedeiros/yoda-loves-wordpress)
+    * [Bootstrap](http://getbootstrap.com/)
     * Framework: MMW functions
-  * Plugin: Contact Form 7
-  * Plugin: Regenerate Thumbnails
-  * Plugin: WP Super Cache
-  * Plugin: Advanced Custom Fields
-  * Plugin: Yoast SEO
-* Gulp
+  * Plugin: [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+  * Plugin: [Regenerate Thumbnails](https://wordpress.org/plugins/regenerate-thumbnails/)
+  * Plugin: [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
+  * Plugin: [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
+  * Plugin: [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+* [Gulp](http://gulpjs.com/)
   * gulp-install
   * gulp-concat
   * gulp-livereload
@@ -24,10 +24,10 @@ It makes your front-end/back-end faster! :sunglasses:
   * gulp-uglify
 
 ## Requirements
-* Xampp - https://www.apachefriends.org
-* Git - https://git-scm.com/
-* Composer - https://getcomposer.org/
-* NodeJS - https://nodejs.org/
+* [Xampp](https://www.apachefriends.org)
+* [Git](https://git-scm.com/)
+* [Composer](https://getcomposer.org/)
+* [NodeJS](https://nodejs.org/)
 
 ## Install Wordpress
 1. Clone __Yoda Composer Wordpress__ repository to a folder.
@@ -49,6 +49,4 @@ path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> composer i
 path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> gulp
   ```
 
-Author: __Miguel Medeiros__
-
-Website: http://www.miguelmedeiros.com.br/
+Author: www.miguelmedeiros.com.br
