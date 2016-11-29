@@ -22,8 +22,6 @@ It makes your front-end/back-end faster! :sunglasses:
   * gulp-uglify
 
 ## Requirements
-* [Xampp](https://www.apachefriends.org)
-* [Git](https://git-scm.com/)
 * [Composer](https://getcomposer.org/)
 * [NodeJS](https://nodejs.org/)
 
