@@ -48,4 +48,4 @@ path-to-your-folder\wordpress\wp-content\themes\yoda-loves-wordpress> gulp
   ```
   
 ***
-Author: [miguelmedeiros.com.br](https://www.miguelmedeiros.com.br/)
+by [www.miguelmedeiros.com.br](http://www.miguelmedeiros.com.br/)
