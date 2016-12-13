@@ -4,11 +4,17 @@ It makes your front-end and back-end faster! :)
 
 Yoda Composer has intagration with:
 * Composer
-  * Framework: Wordpress
+  * Framework CMS: Wordpress
+  * Plugins:
+    * Contact Form 7
+    * Regenerate Thumbnails
+    * WP Super Cache
+    * Advanced Custom Fields
+    * Yoast SEO
   * Theme: Yoda Loves Wordpress
     * Bootstrap
     * Framework: MMW functions
-    * Gulp
+    * Gulp Modules
       * gulp-install
       * gulp-concat
       * gulp-livereload
@@ -17,23 +23,19 @@ Yoda Composer has intagration with:
       * gulp-svg-sprite
       * gulp-svg2png
       * gulp-uglify
-  * Plugin: Contact Form 7
-  * Plugin: Regenerate Thumbnails
-  * Plugin: WP Super Cache
-  * Plugin: Advanced Custom Fields
-  * Plugin: Yoast SEO
 
 ## Requirements
-* Xampp - https://www.apachefriends.org
 * Git - https://git-scm.com/download
 * Composer - https://getcomposer.org/
 * NodeJS - https://nodejs.org/
 
-## Install Wordpress
-1. Clone the repository.
+## Installing the Yoda Composer for Wordpress
+1. Clone the repository to a folder:
+
+`$ git clone https://github.com/MiguelMedeiros/yoda-composer-wordpress.git`
 2. At the terminal go to the root path of your project and run this command:
 
-`__composer install__`
+`$ composer install`
 
 ## Install Gulp
 1. At the terminal go to the root path of your Yoda Loves Wordpress Theme.
