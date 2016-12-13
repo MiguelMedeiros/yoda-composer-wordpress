@@ -35,6 +35,8 @@ vendor/*
 wordpress/*
 wordpress/wp-content/
 
+!/yoda-loves-wordpress/*
+
 # add composer.json
 !/composer.lock
 !/composer.json

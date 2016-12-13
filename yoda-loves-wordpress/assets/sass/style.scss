@@ -1,0 +1,26 @@
+/*!
+      * Theme Name: Yoda Loves Wordpress
+      * Theme URI: https://www.miguelmedeiros.com.br/
+      * Author: Miguel Medeiros
+      * Author URI: https://www.miguelmedeiros.com.br/
+      * Description: Yoda Loves Wordpress is a theme integrated with Yoda Composer for Wordpress. It makes your front-end and back-end faster! :)
+      * Version: 1.1
+      * License: GNU General Public License v2 or later
+      * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+      * Tags: gulp, bootstrap, bootstrap theme, boilerplate, yoda composer, yoda loves wordpress
+      * Text Domain: yodaloveswordpress
+
+      * This theme, like WordPress, is licensed under the GPL.
+      * Use it to make something cool, have fun, and share what you've learned with others.
+*/
+// Third-party
+@import "vendors/bootstrap";
+
+// Variables
+@import "modules/colors";
+@import "modules/mixins";
+
+// Partials
+@import "partials/typography";
+@import "partials/base";
+@import "partials/grids";

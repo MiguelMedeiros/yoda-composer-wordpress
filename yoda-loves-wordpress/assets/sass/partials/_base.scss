@@ -1,0 +1,46 @@
+
+body{
+      font-family: 'Roboto', sans-serif;
+      font-size: 18px;
+}
+h1, h2, h3, h4, h5, h6{
+      font-family: 'Pacifico', cursive;
+      margin-bottom: 15px;
+}
+h1{
+      font-size: 45px;
+}
+a{
+      font-weight: bold;
+      text-decoration: underline;
+}
+p{
+      line-height: 1.6;
+}
+article{
+      margin: 30px auto 0px;
+}
+.box{
+      @include make-md-column(6);
+      @include make-lg-column(6);
+      background: #fff;
+      top: 190px;
+      padding-top: 10px;
+      @media(min-width: $screen-md-min){
+            top: 0px;
+      }
+}
+
+.imagem{
+      @include make-md-column(6);
+      @include make-lg-column(6);
+      position: absolute;
+      top: 30px;
+      padding-top: 10px;
+      @media(min-width: $screen-md-min){
+            display: inline-block;
+            position: relative;
+            top: 0px;
+            padding-top: 0px;
+      }
+}

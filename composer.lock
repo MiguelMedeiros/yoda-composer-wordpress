@@ -4,23 +4,9 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "644e0f041cb0e77189745bfddef24136",
-    "content-hash": "d48e4cd02250e89cfab9b6a6703e4622",
+    "hash": "080ae00d02e02986ee7737fcbd1c2701",
+    "content-hash": "5f8a33df3b57967e67508311c94ddf7f",
     "packages": [
-        {
-            "name": "MiguelMedeiros/yoda-loves-wordpress",
-            "version": "1.0",
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/MiguelMedeiros/yoda-loves-wordpress/archive/master.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "v1.0.7"
-            },
-            "type": "wordpress-theme"
-        },
         {
             "name": "composer/installers",
             "version": "v1.0.7",
@@ -97,16 +83,16 @@
         },
         {
             "name": "johnpbloch/wordpress",
-            "version": "4.2",
+            "version": "4.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/johnpbloch/wordpress.git",
-                "reference": "4c247a5f81af6207a99ecda3ce3b895a9f6af84e"
+                "reference": "b327faa6feea3a4058178dee7ac8b512bd957e92"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/4c247a5f81af6207a99ecda3ce3b895a9f6af84e",
-                "reference": "4c247a5f81af6207a99ecda3ce3b895a9f6af84e",
+                "url": "https://api.github.com/repos/johnpbloch/wordpress/zipball/b327faa6feea3a4058178dee7ac8b512bd957e92",
+                "reference": "b327faa6feea3a4058178dee7ac8b512bd957e92",
                 "shasum": ""
             },
             "require": {
@@ -130,7 +116,7 @@
                 "blog",
                 "cms"
             ],
-            "time": "2015-04-23 16:31:07"
+            "time": "2016-12-06 18:46:46"
         },
         {
             "name": "johnpbloch/wordpress-core-installer",
@@ -202,15 +188,15 @@
         },
         {
             "name": "wpackagist-plugin/contact-form-7",
-            "version": "4.5.1",
+            "version": "4.6",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/contact-form-7/",
-                "reference": "tags/4.5.1"
+                "reference": "tags/4.6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/contact-form-7.4.5.1.zip",
+                "url": "https://downloads.wordpress.org/plugin/contact-form-7.4.6.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -242,15 +228,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "3.8",
+            "version": "3.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/3.8"
+                "reference": "tags/3.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.8.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.3.9.zip",
                 "reference": null,
                 "shasum": null
             },
@@ -279,6 +265,20 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-super-cache/"
+        },
+        {
+            "name": "yoda-loves-wordpress",
+            "version": "1.0",
+            "dist": {
+                "type": "path",
+                "url": "yoda-loves-wordpress",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "v1.0.7"
+            },
+            "type": "wordpress-theme"
         }
     ],
     "packages-dev": [],
