@@ -23,6 +23,17 @@
 
       //add_image_size( 'tamanho_personalizado', 256, 256, array( 'center', 'center' ), true );
 
+      // ---------------------------------------------------------------------//
+      // Ajax Example
+	// ---------------------------------------------------------------------//
+      /*function loadPosts(){
+           header('Content-Type: application/json');
+           echo json_encode(array('var1' => $var1,'var2'=> $var2));
+           die();
+      }
+      add_action('wp_ajax_loadPosts', 'loadPosts');
+      add_action('wp_ajax_nopriv_loadPosts', 'loadPosts');
+      /*
 
       // ---------------------------------------------------------------------//
       // Add livereload gulp
