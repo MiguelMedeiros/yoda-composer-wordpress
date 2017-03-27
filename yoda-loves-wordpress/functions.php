@@ -33,7 +33,7 @@
       }
       add_action('wp_ajax_loadPosts', 'loadPosts');
       add_action('wp_ajax_nopriv_loadPosts', 'loadPosts');
-      /*
+      */
 
       // ---------------------------------------------------------------------//
       // Add livereload gulp
